@@ -146,8 +146,8 @@ li {
   position   : relative;
   overflow   : hidden;
                     /* 画像のサイズに合わせて変更ください */
-  width      : 1200px;
-  height     : 630px;
+  width      : 1180px;
+  height     : 610px;
   margin     : 0 auto;      /* サンプルは中央寄せ */
   background : ##afeeee;
 }
@@ -189,7 +189,7 @@ li {
 
 #header .logo-title {
   font-family: "Open sans", sans-serif;
-  font-size: 6px;
+  font-size: 60px;
   line-height: 1;
   letter-spacing: .2em;
   color:#48d1cc;
